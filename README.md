@@ -2,9 +2,11 @@
 ░░█ █▀█ ▀█ █▀▀ █▀▀ █░█░█ █░░
 █▄█ █▄█ █▄ ██▄ █▀░ ▀▄▀▄▀ █▄▄
 ```
-[![Website](favicon.png)](https://www.waldhauser.sk)     [![Linkedin](linkedin2.png)](https://www.linkedin.com/in/jozef-waldhauser-337779220/)
+
 # Hello, my name is Jozef Waldhauser. 
 This is my github page - I'm still a *new* coder, so **please excuse my code.**
+
+[![Website](favicon.png)](https://www.waldhauser.sk)     [![Linkedin](linkedin2.png)](https://www.linkedin.com/in/jozef-waldhauser-337779220/)
 
 ### I have an interest in JavaScript and Linux, 
 ● I know basics of JavaScript, so if You can contact me if you want!
