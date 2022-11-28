@@ -8,6 +8,8 @@ This is my github page - I'm still a *new* coder, so **please excuse my code.**
 ### I have an interest in JavaScript and Linux, 
 ● I know basics of JavaScript, so if You can contact me if you want!
 
+● I'm a newbie 3D modeller, but I know how to make a good looking scene. I can model in fusion 360 and I can use a 3D printer.
+
 ● I've been tinkering with servers for about two years now. I've also been making a HUDs and various tiny programs in Expression 2.
 
 ● I'm currently studying @ [Unicorn University](https://unicornuniversity.net/)
