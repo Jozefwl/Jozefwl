@@ -2,7 +2,7 @@
 ░░█ █▀█ ▀█ █▀▀ █▀▀ █░█░█ █░░
 █▄█ █▄█ █▄ ██▄ █▀░ ▀▄▀▄▀ █▄▄
 ```
-[![Website](favicon.png)](https://www.waldhauser.sk) [![Linkedin](linkedin2.png)](https://www.linkedin.com/in/jozef-waldhauser-337779220/)
+[![Website](favicon.png)](https://www.waldhauser.sk)     [![Linkedin](linkedin2.png)](https://www.linkedin.com/in/jozef-waldhauser-337779220/)
 # Hello, my name is Jozef Waldhauser. 
 This is my github page - I'm still a *new* coder, so **please excuse my code.**
 
