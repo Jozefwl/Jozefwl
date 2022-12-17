@@ -17,7 +17,7 @@ This is my github page - I'm still a *new* coder, so **please excuse my code.**
 
 ● I'm currently studying @ [Unicorn University](https://unicornuniversity.net/)
 
-●You can contact me by submitting a form [on my webpage](https://www.waldhauser.sk/contact.php) in the 'contact' section.
+● You can contact me by submitting a form [on my webpage](https://www.waldhauser.sk/contact.html) in the 'contact' section.
 
 <!---
 Jozefwl/Jozefwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
