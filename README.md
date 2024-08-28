@@ -4,7 +4,7 @@
 ```
 
 # Hello, my name is Jozef Waldhauser. 
-This is my github page.
+Welcome to my GitHub page! I have my school and personal projects here, feel free to look around!
 
 [![Website](favicon.png)](https://www.waldhauser.sk)     [![Linkedin](linkedin2.png)](https://www.linkedin.com/in/jozef-waldhauser-337779220/)
 
