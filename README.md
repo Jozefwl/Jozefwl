@@ -8,14 +8,13 @@ Welcome to my GitHub page! I have my school and personal projects here, feel fre
 
 [![Website](favicon.png)](https://www.waldhauser.sk)     [![Linkedin](linkedin2.png)](https://www.linkedin.com/in/jozef-waldhauser-337779220/)
 
-### I have an interest in JavaScript and Linux, 
-● I know basics of JavaScript, so You can contact me if you want help or work on something!
+### Interests & Information
+- I work as a DevOps Engineer and Configuration manager
+- I have two kubernetes clusters running my apps at https://waldhauser.sk and https://fabrikanazemiaky.eu
+- I know how to use blender, I modelled a room I used to live in and an apartment to use with the Unity engine (VRChat)
+- I've been tinkering with Linux and servers for about six years now
+- Currently studying @ [Unicorn University](https://unicornuniversity.net/)
 
-● I'm a newbie 3D modeller, but I know how to make a good looking scene. I can model in fusion 360, blender and I can use a 3D printer.
-
-● I've been tinkering with servers for about two years now. I've also been making HUDs and various tiny programs in Expression 2.
-
-● I'm currently studying @ [Unicorn University](https://unicornuniversity.net/)
 <!---
 Jozefwl/Jozefwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
