@@ -10,7 +10,7 @@ Welcome to my GitHub page! I have my school and personal projects here, feel fre
 
 ### Interests & Information
 - I work as a DevOps Engineer and Configuration manager
-- I have two kubernetes clusters running my apps at https://waldhauser.sk and https://fabrikanazemiaky.eu
+- I have two kubernetes clusters running my apps at https://waldhauser.sk and https://waldoserver.top
 - I know how to use blender, I modelled a room I used to live in and an apartment to use with the Unity engine
 - I've been tinkering with Linux and servers for about six years now
 - Currently studying @ [Unicorn University](https://unicornuniversity.net/)
